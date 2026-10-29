@@ -1,0 +1,28 @@
+ENTRELAÇOS 5.0 — SITE COMPLETO PARA VS CODE
+
+O QUE HÁ NESTA PASTA
+- index.html: estrutura e textos de todo o site.
+- styles.css: cores, estilos e layout responsivo.
+- script.js: filtros, entrevistas, janelas e galeria.
+- assets/logo-entrelacos.png: marca Entrelaços.
+- assets/favicon.png: ícone da aba.
+- assets/logo-ifrn-alternativa.svg: alternativa local simplificada se a imagem oficial não carregar.
+
+COMO USAR
+1. Extraia o ZIP no seu computador.
+2. Abra o Visual Studio Code.
+3. Clique em Arquivo > Abrir Pasta e selecione entrelacos-ifrn-v5.
+4. Abra index.html e use Open with Live Server. Ou dê dois cliques em index.html.
+
+A MARCA DO IFRN
+A imagem institucional usada no site é carregada de:
+https://portal.ifrn.edu.br/media/images/35807_Campus_Canguaretama_convida_para_reuniao.width-500.png
+A página com downloads oficiais da marca é:
+https://portal.ifrn.edu.br/institucional/comunicacao/identidade-visual/logotipo/
+O arquivo SVG da pasta assets é uma alternativa visual simplificada para situações offline; não substitui a arte oficial.
+
+OBSERVAÇÃO
+Este é um projeto acadêmico independente e não um website oficial do IFRN.
+Fotos dos projetos são contextuais: não são registros confirmados das ações de 2026.
+As fotografias externas e fontes tipográficas dependem de conexão com a internet.
+Para publicar, solicite autorização de uso das fotografias e verifique as regras da marca com o setor responsável do IFRN.
